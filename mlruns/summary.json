@@ -1,0 +1,33 @@
+{
+  "best_model": "Gradient Boosting",
+  "metrics": {
+    "accuracy": 0.974,
+    "precision": 0.9412,
+    "recall": 0.9562,
+    "f1_score": 0.9486,
+    "roc_auc": 0.9972
+  },
+  "all_results": {
+    "Logistic Regression": {
+      "accuracy": 0.929,
+      "precision": 0.8435,
+      "recall": 0.8805,
+      "f1_score": 0.8616,
+      "roc_auc": 0.9648
+    },
+    "Random Forest": {
+      "accuracy": 0.965,
+      "precision": 0.9426,
+      "recall": 0.9163,
+      "f1_score": 0.9293,
+      "roc_auc": 0.9956
+    },
+    "Gradient Boosting": {
+      "accuracy": 0.974,
+      "precision": 0.9412,
+      "recall": 0.9562,
+      "f1_score": 0.9486,
+      "roc_auc": 0.9972
+    }
+  }
+}
